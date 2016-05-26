@@ -5,7 +5,7 @@
  *  
  * @author guisu.huang 
  * @since 2012-04-11 
- *  
+ * hahahahahahahah
  */  
   
 //确保在连接客户端时不会超时  
